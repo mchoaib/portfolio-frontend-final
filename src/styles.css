@@ -1,0 +1,442 @@
+.pagina_principal {
+    background-color: #0b335d ;
+}
+
+.cierre {
+    border-color: #ffffff;
+    margin-top: 5%;
+    padding-bottom: 1%;
+}
+
+.copyright {
+    text-align: center;
+    color: #ffffff;
+}
+
+.navbar.navbar-expand-lg.bg-dark {
+   background: #8893e6;
+   background: linear-gradient(0deg, #8893e6 2%, #0d37f9 47%, #8893e6 97%);
+}
+
+.navbar_redes{
+    list-style: none;
+}
+
+.logueo {
+    text-decoration: none;
+}
+a.fa-brands {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+a.fa-solid {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+i.fa-solid {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+i.fa-brands {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+a.fa-brands:hover {
+   color: #d0ff00;
+}
+
+i.fa-brands:hover {
+    color: #d0ff00;
+}
+
+a.fa-solid.fa-envelope:hover {
+    color: #ff0000;
+ }
+i.fa-solid.fa-envelope:hover {
+    color: #ff0000;
+}
+
+i.fa-solid.fa-user-lock:hover {
+    color: #008000;
+}
+
+a.fa-solid.fa-user:hover {
+    color: #008000;
+}
+.list-group-item.redes{
+    --bs-list-group-border-width : 0%;
+    background: none;
+
+}
+
+.list-group-item.fa-brand {
+    background: none;
+    color: #ffffff;
+}
+
+.list-group.sidebar {
+    margin-top: 7rem;
+
+}
+
+.modal-backdrop {
+    z-index:auto;
+}
+
+/* Estilos sobre proyectos */
+
+.editor.xmark.proy3 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy3 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.fotoproy.fp3 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
+.editor.xmark.proy2 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy2 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.fotoproy.fp2 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
+.editor.xmark.proy1 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.proy1 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.fotoproy.fp1 {
+    margin-top: 5rem !important;
+    margin-left: 2rem;
+}
+
+.titulo_proyectos {
+    color: #ffffff;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+.texto_proy {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+
+/* Dount charts */
+
+.donut{
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+/* (B) DONUT "CONVERSION" */
+  /* (B1) SMALLER CIRCLE */
+  .hole {
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    background: #0b335d;
+  }
+
+  .porcentaje {
+    color: #ffffff;
+    margin-top: 30%;
+    margin-left: 27%;
+  }
+
+  /* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
+  .donut50 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+   green 0deg 180deg,
+   red 180deg 360deg
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut67 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 215deg,
+    red 215deg 360deg
+
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut75 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 270deg,
+    red 270deg 360deg
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .donut100 {
+    /* (A1) CIRCLE */
+    width: 100px; height: 100px;
+    border-radius: 50%;
+
+  /* (A2) SEGMENTS */
+    background: conic-gradient(
+    green 0deg 360deg
+  );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+/* (C) LEGEND */
+.legend {
+    color: #ffffff;
+    margin-left: 25%;
+    margin-top: 3%;
+    text-align: center;
+  }
+
+.titulo_habilidades {
+    color: #ffffff;
+    margin-top: 4rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+/* Estilos Estudios */
+.texto_estudio.txtest3 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_estudio3 {
+    margin-top: 7.5rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.est3 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.est3 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.texto_estudio.txtest2 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_estudio2 {
+    margin-top: 9rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.est2 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.est2 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+.texto_estudio.txtest1 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_estudio1 {
+    margin-top: 7.5rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.est1 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.est1 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+.Titulo_estudios {
+    color: #ffffff;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+/* Estilos Experiencias */
+.texto_laburo.txtlab3 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_laburo3 {
+    margin-top: 7.5rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.exp3 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.exp3 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+
+.texto_laburo.txtlab2 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_laburo2 {
+    margin-top: 9rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.exp2 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.exp2 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+.texto_laburo.txtlab1 {
+    margin-top: 5rem;
+    color: #ffffff;
+    font-size: 100%;
+    text-align : left;
+}
+
+.icono_laburo1 {
+    margin-top: 7.5rem;
+    margin-left: 13rem;
+}
+
+.editor.xmark.exp1 {
+    margin-left: 80.5%;
+    margin-top: 5.5%;
+}
+.editor.pen.exp1 {
+    margin-left: 78.5%;
+    margin-top: 5.5%;
+}
+.Titulo_experiencia {
+    color: #ffffff;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-size: 200%;
+    text-align: left;
+}
+
+.editor.xmark.acerca {
+    margin-left: 28.5%;
+    margin-top: -11%;
+    position:absolute;
+    color: aquamarine !important;
+}
+.editor.pen.acerca {
+    margin-left: 26.5%;
+    margin-top: -11%;
+    position:absolute;
+    color: aquamarine !important;
+}
+.editor.pen.nombrecargo {
+    margin-left: 0.5%;
+    margin-top: -4%;
+}
+
+.editor.pen.fotoperfil {
+    margin-left: -6.5%;
+    margin-top: -1%;
+}
+
+a.editor.pen.banner {
+    margin-left: -2%;
+    margin-top: 29%;
+}
+
+.editor {
+    position:absolute;
+    color: aquamarine !important;
+}
+
+.picperfil {
+    margin-top: -20%;
+    margin-left: -50%;
+    width: 40%;
+    position: relative;
+}
+.info {
+    font-size: 90%;
+    margin-left: -55%;
+    padding-top: 2%;
+    text-align: center;
+    color:#ffffff;
+}
+
+.ed-about {
+    color: #ffffff !important;
+    margin-top: 1.5rem;
+    text-align: left;
+    font-size: 90%;
+}
+
+img.w-100 {
+    margin-top: -6% !important;
+}

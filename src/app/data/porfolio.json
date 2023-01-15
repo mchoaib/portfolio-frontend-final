@@ -1,0 +1,170 @@
+{
+     "profile": {
+          "name": "Mario CHOAIB Velasco",
+
+          "position": "Full Stack Developer Jr",
+
+          "profilePic": "#",
+
+          "bannerPic": "#",
+
+          "about": "Mario es un apasionado de la informática desde los 12 años. Siempre tratando de encontrar nuevas formas de resolver problemas mediante la programación y el uso posterior de los mismos en la aplicación. Buscando nuevos caminos, ha logrado mostrar su labor (en español y también en inglés) como una forma de educación."
+          },
+
+     "experiencia": [{
+               "place_logo": "#",
+
+               "place": "Radio Urbana - Bahía Blanca",
+
+               "position": "Producción radial - Redes Sociales",
+
+               "whatIDo": "Armado diario (matutino) de sección noticias del programa en la primera mañana de la emisora. Publicación de notas y, pautado de las mismas. Trato con personas, para lograr pautar esas entrevistas."
+          },
+
+          {
+               "place_logo": "#",
+
+               "place": "PC Arts - Banghó",
+
+               "position": "Vendedor - Promotor Banghó (zona Bahía Blanca)",
+
+               "whatIDo": "Fui reclutado como promotor y vendedor de la empresa para Bahía Blanca por demostrar amplio conocimiento sobre los productos que vendíamos(computadoras y parte de las mismas), demostrando además, buen trato y llegada con la gente y sobre todo, con los compañeros. "
+          },
+
+          {
+               "place_logo": "#",
+
+               "place": "Bahisoft - Bahía Blanca",
+
+               "position": "Instalación y mantenimiento de software para PC",
+
+               "whatIDo": "Atención a clientes en negocio de informática en Bahía Blanca: recomendación, instalación y mantenimiento de software en sistemas informáticos."
+          }
+     ],
+
+     "studies": [{
+               "place_logo": "#",
+
+               "place": "Universidad Nacional del Sur",
+
+               "grade": "Estudios universitarios (no completados)",
+
+               "situation": "Primeros dos años de la Licenciatura en Computación. En la actualidad, estudiando Profesorado en Matemáticas "
+          },
+
+          {
+               "place_logo": "#",
+
+               "place": "EEM13 'Colegio Nacional' ",
+
+               "grade": "Estudios secundarios completos",
+
+               "situation": "Perito Bachiller (5 años)"
+
+          },
+
+          {
+               "place_logo": "#",
+
+               "place": "EEP 67 'Tomás Espora' ",
+
+               "grade": "Estudios primarios completos",
+
+               "situation": "7 años"
+
+          }
+
+     ],
+
+     "skills": [{
+               "type": "Hard",
+
+               "percentage": "50",
+
+               "title": "Gestión de Personas"
+
+          },
+
+          {
+               "type": "Soft",
+
+               "percentage": "100",
+
+               "title": "Atención al Cliente"
+
+          },
+
+          {
+               "type": "Hard",
+
+               "percentage": "75",
+
+               "title": "Redacción"
+
+          },
+
+          {
+               "type": "Soft",
+
+               "percentage": "70",
+
+               "title": "Productividad"
+
+          },
+
+          {
+               "type": "Soft",
+
+               "percentage": "75",
+
+               "title": "Comunicación"
+
+          },
+
+          {
+               "type": "Hard",
+
+               "percentage": "70",
+
+               "title": "Traducción"
+
+          }
+     ],
+
+     "experiences": [{
+               "thumbnail": "#",
+
+               "title": "Porfolio Personal",
+
+               "description": "Este es mi portfolio personal donde muestro un poco sobre quien soy, mis estudios, mis habilidades y mis proyectos personales.",
+
+               "site_link": "https://www.mariochoaib.ar"
+
+          },
+
+          {
+               "thumbnail": "#",
+
+               "title": "Tienda Nube",
+
+               "description": "Este es el sitio web institucional de Tiendanube, una de las mejores plataformas de e - commerce en Latinoamérica. Como podés observar, contiene tanto información sobre lo que ofrece y los beneficios de su servicio, como de la marca, quiénes conforman el equipo y datos de prensa.",
+
+               "site_link": "https://www.tiendanube.com"
+
+          },
+
+          {
+               "thumbnail": "#",
+
+               "title": "Balcón",
+
+               "description": "Balcón se dedica a vender plantas y macetas a través de su propio sitio web. Pero hay mucho más: utilizan su tienda online para proveer de mucha más información a los usuarios y ofrecer una experiencia de compra integral. ",
+
+               "site_link": "https://www.balcon.com.ar"
+
+          }
+
+     ],
+
+     "copyright": "Portfolio realizado por pMACV (c) 2022-2023"
+}
